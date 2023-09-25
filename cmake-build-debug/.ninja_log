@@ -1,0 +1,4 @@
+# ninja log v5
+0	411	1695656107587431485	CMakeFiles/hashing.dir/main.cpp.o	5cdac9f552d1ab4
+0	421	1695656107597716578	CMakeFiles/hashing.dir/sha1.cc.o	7a649e30a90ffc76
+421	448	1695656107625744062	hashing	6bf6e0c9a4eafd2c
